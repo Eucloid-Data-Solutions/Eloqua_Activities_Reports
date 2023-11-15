@@ -6,8 +6,9 @@
 2) Click on the Authorisation tab from the drop-down list, click on authentication type.
    In our case we use basic auth:
 
-   User name: <company name>\<your user name>
-   Password: <Your password>
+   User name: <company_name>\<your user name>
+   
+   Password: <Your_password>
 
    <img width="960" alt="image" src="https://github.com/Eucloid-Data-Solutions/Eloqua_Activities_Reports/assets/147633066/7978e20d-5693-42b4-b7fd-85467b7ba496">
 
