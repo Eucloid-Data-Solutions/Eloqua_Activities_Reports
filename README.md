@@ -7,7 +7,7 @@
 
    <img width="960" alt="image" src="https://github.com/Eucloid-Data-Solutions/Eloqua_Activities_Reports/assets/147633066/7978e20d-5693-42b4-b7fd-85467b7ba496">
 
-On the URL text box, enter "https://login.eloqua.com/id".
+   On the URL text box, enter "https://login.eloqua.com/id".
 
 3) Click on the headers tab and add the following header with the given key:
 
