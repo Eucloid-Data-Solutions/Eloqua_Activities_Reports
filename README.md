@@ -11,4 +11,16 @@
 
 3) Click on the headers tab and add the following header with the given key:
 
-   <img width="960" alt="image" src="https://github.com/Eucloid-Data-Solutions/Eloqua_Activities_Reports/assets/147633066/ba49a030-4c34-44fb-b519-82b412e0ccd2">
+   <img width="960" alt="image" src="https://github.com/Eucloid-Data-Solutions/Eloqua_Activities_Reports/assets/147633066/8ad57398-d451-4715-a79a-1ac4d9ed3762">
+
+4) Click on the code snippet icon to fetch the auth key.
+
+   <img width="960" alt="image" src="https://github.com/Eucloid-Data-Solutions/Eloqua_Activities_Reports/assets/147633066/a93a0aad-88ea-4cfd-8dcc-db230461fbb0">
+
+
+
+Run your desired code from the given choices:
+1. Specific Campaign metrics
+2. PII level information
+3. Date level activities
+
