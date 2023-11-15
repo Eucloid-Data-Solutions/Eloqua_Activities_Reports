@@ -25,7 +25,7 @@
 
 
 Run your desired code from the given choices:
-1. Specific Campaign metrics
-2. PII level information
-3. Date level activities
+1. Specific Campaign metrics : 
+2. PII level information : email_openers.ipynb
+3. Date level activities : 
 
