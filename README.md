@@ -6,7 +6,7 @@
 2) Click on the Authorisation tab from the drop-down list, click on authentication type.
    In our case we use basic auth:
 
-   User name: <company_name>'\'<your_user_name>
+   User name: <company_name> \ <your_user_name>
    
    Password: <Your_password>
 
