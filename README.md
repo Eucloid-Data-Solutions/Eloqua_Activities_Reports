@@ -3,10 +3,13 @@
    
    <img width="960" alt="image" src="https://github.com/Eucloid-Data-Solutions/Eloqua_Activities_Reports/assets/147633066/35ef74f8-b584-4922-a34e-9205b888c6ee">
 
-2) Click on the Authorisation tab from the drop-down list, click on authentication type.\n
+2) Click on the Authorisation tab from the drop-down list, click on authentication type.
+   
    In our case we use basic auth:
-   \nUser name: <company name>\<your user name>
-   \nPassword: <Your password>
+
+   User name: <company name>\<your user name>
+
+   Password: <Your password>
 
    <img width="960" alt="image" src="https://github.com/Eucloid-Data-Solutions/Eloqua_Activities_Reports/assets/147633066/7978e20d-5693-42b4-b7fd-85467b7ba496">
 
