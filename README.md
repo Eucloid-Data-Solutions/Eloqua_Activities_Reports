@@ -25,7 +25,7 @@
 
 
 Run your desired code from the given choices:
-1. Specific Campaign metrics : 
+1. Specific Campaign metrics : CRM_analysis.ipynb
 2. PII level information : email_openers.ipynb
-3. Date level activities : 
+3. Date level activities : CRM_analysis.ipynb - Add the date filters as used in 2. in function: api()
 
