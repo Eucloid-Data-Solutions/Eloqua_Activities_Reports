@@ -29,3 +29,5 @@ Run your desired code from the given choices:
 2. PII level information : email_openers.ipynb
 3. Date level activities : 
 
+Visit for additional information:
+https://docs.oracle.com/en/cloud/saas/marketing/eloqua-rest-api/
