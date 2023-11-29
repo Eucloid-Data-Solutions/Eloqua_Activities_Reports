@@ -29,3 +29,5 @@ Run your desired code from the given choices:
 2. PII level information : email_openers.ipynb
 3. Date level activities : CRM_analysis.ipynb - Add the date filters as used in 2. in function: api()
 
+Visit for additional information:
+https://docs.oracle.com/en/cloud/saas/marketing/eloqua-rest-api/
